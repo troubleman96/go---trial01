@@ -8,3 +8,5 @@ func main() {
 
 	Printf("Name: %s, Age: %d\n", name, age)
 }
+
+//const pi = 3.14
